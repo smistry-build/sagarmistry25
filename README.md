@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagarmistry25
-- 👀 I’m interested in building products that leverage tech to solve user facing problems 
+- 👀 I’m interested in building user facing products 
 - 🌱 Always learning
 - 📫 How to reach me ...
 
