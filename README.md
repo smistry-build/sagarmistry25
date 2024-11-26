@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sagarmistry25
-- 👀 I’m interested in building user facing products 
+- 👋 Hi, I’m Sagar Mistry
+- 👀 I’m interested in solving user-facing problems
 - 🌱 Always learning
 - 📫 How to reach me ...
 
